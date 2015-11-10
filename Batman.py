@@ -1,7 +1,7 @@
 # Author: Rodolfo Ferro
 # Email: ferro@cimat.mx
 # Script: Plotting the Batman logo 
-# Based en the section of extra credit from: http://nob.cs.ucdavis.edu/classes/ecs010-2012-04/homework/hw3.html
+# Based on the section of extra credit from: http://nob.cs.ucdavis.edu/classes/ecs010-2012-04/homework/hw3.html
 
 import numpy as np
 import matplotlib.pyplot as plt
